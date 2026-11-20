@@ -126,74 +126,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 <img width="1920" height="1080" alt="Screenshot 2026-11-03 110007" src="https://github.com/user-attachments/assets/683a715b-617e-4935-bf90-acff1533380c" />
 
-``
-`
-`
-`
-``
-`
-`
-`
-
 
 # RESULT
 
 Thus the project to develop Library Management System was developed using Star UML Software is done successfully.
-``
-``
-`
-`
-`
-`
-`
-`
-`
-`
-`
-
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-
-`
-
-
-`
-``
-`
-`
-`
-`
-`
-`
-`
-`
-
-`
-`
-`
-`
-`
-`
-`
-`
-
-`
-`
-`
-`
-`
-`
-`
-`
-`
-`
-
